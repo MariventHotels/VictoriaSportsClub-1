@@ -6,7 +6,7 @@ function OffersHero() {
     <>
         <div className="hero-wrap" data-aos="fade">
             <div className="hero-img">
-                <img src="/vscimages/hero/SpecialOffersH.webp" alt="Lap Pool" />
+                <img src="/vscimages/hero/sm1.webp" alt="Lap Pool" />
             </div>
         </div>
     </>
