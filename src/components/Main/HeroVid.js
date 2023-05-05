@@ -1,6 +1,6 @@
 import React from 'react';
 import Video from 'react-responsive-video';
-import TempoVideo from '../../video/MainVid.mp4';
+import TempoVideo from '../../video/MainVid1.mp4';
 import '../../styles/Hero.css';
 
 function HeroVid() {
