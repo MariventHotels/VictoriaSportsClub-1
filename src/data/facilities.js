@@ -39,10 +39,10 @@ const facilitiesMain = [
         faciLabel: "TENNIS COURT"
     },
 
-    {
-        faciImage: '/vscimages/facilities/Wall Climbing and Volleyball Court.webp',
-        faciLabel: "WALL CLIMBING & VOLLEYBALL COURT"
-    },
+    // {
+    //     faciImage: '/vscimages/facilities/Wall Climbing and Volleyball Court.webp',
+    //     faciLabel: "WALL CLIMBING & VOLLEYBALL COURT"
+    // },
 
     {
         faciImage: '/vscimages/facilities/Gym.webp',
@@ -54,10 +54,10 @@ const facilitiesMain = [
         faciLabel: "TREADMILL AREA"
     },
 
-    {
-        faciImage: '/vscimages/facilities/Bowling Alley.webp',
-        faciLabel: "BOWLING ALLEY"
-    },
+    // {
+    //     faciImage: '/vscimages/facilities/Bowling Alley.webp',
+    //     faciLabel: "BOWLING ALLEY"
+    // },
 
     {
         faciImage: '/vscimages/facilities/Boxing Gym.webp',

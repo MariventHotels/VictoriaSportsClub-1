@@ -28,7 +28,7 @@ function index() {
                             <div className="col-grid-right">
                                 <h1>FOR INQUIRIES & BOOKINGS</h1>
                                 <p>+63 927 559 7631 or +63 927 559 7630</p>
-                                <p>sportsleisure@victoriasportsclub.com.ph</p>
+                                <p>info@victoriasportsclub.com.ph</p>
                                 <p>6F, Victoria Sports Tower 2, <br/>
                                     799 EDSA South  Triangle Quezon City
                                 </p>

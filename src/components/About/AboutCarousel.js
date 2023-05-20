@@ -21,7 +21,7 @@ function AboutCarousel() {
                 Victoria Sports aims to be a one-stop training facility for fitness enthusiasts and athletes.
                 Our membership benefits ensure that we fit every active lifestyle. Enjoy access to a 50-meter
                 indoor lap pool, six private gyms and complete beauty and wellness facilities, it is the
-                largest indoor sports facility in the Philippines.
+                largest indoor sports facility in Quezon City.
               </p>
         </div>
     </>

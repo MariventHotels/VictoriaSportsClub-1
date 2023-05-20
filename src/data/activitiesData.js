@@ -9,10 +9,10 @@ const activitiesData = [
         actDesc: "50-meter Swimming Pool"
     },
 
-    {
-        actImg: '/vscimages/icons/sports bar.png',
-        actDesc: "Bowling Alley"
-    },
+    // {
+    //     actImg: '/vscimages/icons/sports bar.png',
+    //     actDesc: "Bowling Alley"
+    // },
 
     {
         actImg: '/vscimages/icons/sports facilities.png',
@@ -24,10 +24,10 @@ const activitiesData = [
         actDesc: "Private Movie Lounge for Theater"
     },
 
-    {
-        actImg: '/vscimages/icons/wall climbing.png',
-        actDesc: "Wall Climbing"
-    },
+    // {
+    //     actImg: '/vscimages/icons/wall climbing.png',
+    //     actDesc: "Wall Climbing"
+    // },
 
     {
         actImg: '/vscimages/icons/gym.png',
@@ -39,10 +39,10 @@ const activitiesData = [
         actDesc: "50-meter Swimming Pool"
     },
 
-    {
-        actImg: '/vscimages/icons/sports bar.png',
-        actDesc: "Bowling Alley"
-    },
+    // {
+    //     actImg: '/vscimages/icons/sports bar.png',
+    //     actDesc: "Bowling Alley"
+    // },
 
     {
         actImg: '/vscimages/icons/sports facilities.png',
@@ -54,10 +54,10 @@ const activitiesData = [
         actDesc: "Private Movie Lounge for Theater"
     },
 
-    {
-        actImg: '/vscimages/icons/wall climbing.png',
-        actDesc: "Wall Climbing"
-    },
+    // {
+    //     actImg: '/vscimages/icons/wall climbing.png',
+    //     actDesc: "Wall Climbing"
+    // },
 
     {
         actImg: '/vscimages/icons/gym.png',
@@ -69,10 +69,10 @@ const activitiesData = [
         actDesc: "50-meter Swimming Pool"
     },
 
-    {
-        actImg: '/vscimages/icons/sports bar.png',
-        actDesc: "Bowling Alley"
-    },
+    // {
+    //     actImg: '/vscimages/icons/sports bar.png',
+    //     actDesc: "Bowling Alley"
+    // },
 
     {
         actImg: '/vscimages/icons/sports facilities.png',
@@ -84,10 +84,10 @@ const activitiesData = [
         actDesc: "Private Movie Lounge for Theater"
     },
 
-    {
-        actImg: '/vscimages/icons/wall climbing.png',
-        actDesc: "Wall Climbing"
-    },
+    // {
+    //     actImg: '/vscimages/icons/wall climbing.png',
+    //     actDesc: "Wall Climbing"
+    // },
 ];
 
 export default activitiesData;

@@ -17,11 +17,11 @@ const memberData = [
         memberDesc: "Secure one (1) month of full access to Victoria Sports Club Gym.",
     },
 
-    {
-        memberImg: '/vscimages/membership/GymAccess.webp',
-        memberTitle: "GYM ACCESS + 1",
-        memberDesc: "Get one (1) month membership to Victoria Sports Club and get access to Victoria Sports Club Fitness Gym and one (1) of its amenities. Choose from: Swimming Pool; Tennis Court; Basketball Court; or Billiards.  ",
-    },
+    // {
+    //     memberImg: '/vscimages/membership/GymAccess.webp',
+    //     memberTitle: "GYM ACCESS + 1",
+    //     memberDesc: "Get one (1) month membership to Victoria Sports Club and get access to Victoria Sports Club Fitness Gym and one (1) of its amenities. Choose from: Swimming Pool; Tennis Court; Basketball Court; or Billiards.  ",
+    // },
 ];
 
 export default memberData;

@@ -107,7 +107,7 @@ function Index() {
                                 <option value="Annual Premiere">Annual Premiere</option>
                                 <option value="Semi-Annual Premiere">Semi-Annual Premiere</option>
                                 <option value="Gym Access">Gym Access</option>
-                                <option value="Gym Access + 1">Gym Access + 1</option>
+                                {/**<option value="Gym Access + 1">Gym Access + 1</option> */}
                             </select>
 
                             <br/>
