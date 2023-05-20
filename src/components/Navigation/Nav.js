@@ -34,7 +34,7 @@ function Nav() {
                 <div className='nav-logo'>
                     <div>
                         <a href="/">
-                            <img src="/vscimages/logo/VICTORIA SPORTS logo(2).webp" className='logo' alt='Victoria Sports Club Logo' />
+                            <img src="/vscimages/logo/VICTORIA SPORTS logo(1).png" className='logo' alt='Victoria Sports Club Logo' />
                         </a>
                     </div>
                 </div>
