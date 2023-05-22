@@ -1,41 +1,41 @@
 const facilitiesMain = [
     {
-        faciImage: '/vscimages/facilities/Jacuzzi.webp',
+        faciImage: '/vscimages/facilities/Jacuzzi.jpg',
         faciLabel: "JACUZZI"
     },
 
     {
-        faciImage: '/vscimages/facilities/Lap pool.webp',
+        faciImage: '/vscimages/facilities/Lap pool.jpg',
         faciLabel: "LAP POOL"
     },
 
     {
-        faciImage: '/vscimages/facilities/Water Spa.webp',
+        faciImage: '/vscimages/facilities/Water Spa.jpg',
         faciLabel: "WATER SPA"
     },
 
     {
-        faciImage: '/vscimages/facilities/sauna.webp',
+        faciImage: '/vscimages/facilities/sauna.jpg',
         faciLabel: "SAUNA"
     },
 
     {
-        faciImage: '/vscimages/facilities/Billiards.webp',
+        faciImage: '/vscimages/facilities/Billiards.jpg',
         faciLabel: "BILLIARDS"
     },
 
     {
-        faciImage: '/vscimages/facilities/Table Tennis Court.webp',
+        faciImage: '/vscimages/facilities/Table Tennis Court.jpg',
         faciLabel: "TABLE TENNIS COURT"
     },
 
     {
-        faciImage: '/vscimages/facilities/Basketball Court.webp',
+        faciImage: '/vscimages/facilities/Basketball Court.jpg',
         faciLabel: "BASKETBALL COURT"
     },
 
     {
-        faciImage: '/vscimages/facilities/Tennis Court.webp',
+        faciImage: '/vscimages/facilities/Tennis Court.jpg',
         faciLabel: "TENNIS COURT"
     },
 
@@ -45,12 +45,12 @@ const facilitiesMain = [
     // },
 
     {
-        faciImage: '/vscimages/facilities/Gym.webp',
+        faciImage: '/vscimages/facilities/Gym.jpg',
         faciLabel: "GYM"
     },
 
     {
-        faciImage: '/vscimages/facilities/Threadmill Area.webp',
+        faciImage: '/vscimages/facilities/Threadmill Area.jpg',
         faciLabel: "TREADMILL AREA"
     },
 
@@ -60,17 +60,17 @@ const facilitiesMain = [
     // },
 
     {
-        faciImage: '/vscimages/facilities/Boxing Gym.webp',
+        faciImage: '/vscimages/facilities/Boxing Gym.jpg',
         faciLabel: "BOXING GYM"
     },
 
     {
-        faciImage: '/vscimages/facilities/MMA Gym.webp',
+        faciImage: '/vscimages/facilities/MMA Gym.jpg',
         faciLabel: "MIXED MARTIAL ARTS AREA"
     },
 
     {
-        faciImage: '/vscimages/facilities/Dart.webp',
+        faciImage: '/vscimages/facilities/Dart.jpg',
         faciLabel: "DART"
     }
 ];

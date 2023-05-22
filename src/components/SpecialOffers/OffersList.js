@@ -43,7 +43,7 @@ function OffersList() {
             </div>
             <div className="package-box" onClick={e => e.stopPropagation()}>
                 <div className="package-details">
-                    <img src="/vscimages/offers/packages/BalletPckg.webp" alt="Ballet Package" />
+                    <img src="/vscimages/offers/packages/BalletPckg.jpg" alt="Ballet Package" />
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@ function OffersList() {
             </div>
             <div className="package-box">
                 <div className="package-details">
-                    <img src="/vscimages/offers/packages/TaekwondoPckg.webp" alt="Taekwondo Package" />
+                    <img src="/vscimages/offers/packages/TaekwondoPckg.jpg" alt="Taekwondo Package" />
                 </div>
             </div>
         </div>
@@ -65,7 +65,7 @@ function OffersList() {
             </div>
             <div className="package-box">
                 <div className="package-details">
-                    <img src="/vscimages/offers/packages/Jiu-JitsuPckg.webp" alt="Jiu-Jitsu Package" />
+                    <img src="/vscimages/offers/packages/Jiu-JitsuPckg.jpg" alt="Jiu-Jitsu Package" />
                 </div>
             </div>
         </div>
@@ -76,7 +76,7 @@ function OffersList() {
             </div>
             <div className="package-box">
                 <div className="package-details">
-                    <img src="/vscimages/offers/packages/SwimmingPckg.webp" alt="Swimming Package" />
+                    <img src="/vscimages/offers/packages/SwimmingPckg.jpg" alt="Swimming Package" />
                 </div>
             </div>
         </div>
@@ -93,7 +93,7 @@ function OffersList() {
                 <div className="offers-grid">
                     <div className="offers-col" data-aos="fade-up">
                         <div className="offers-img">
-                            <img src="/vscimages/offers/ballet.webp" alt="Ballet" />
+                            <img src="/vscimages/offers/ballet.jpg" alt="Ballet" />
                         </div>
                     </div>
 
@@ -123,7 +123,7 @@ function OffersList() {
                     </div>
                     <div className="offers-col elementB" data-aos="fade-up">
                         <div className="offers-img">
-                            <img src="/vscimages/offers/taekwondo.webp" alt="Taekwondo" />
+                            <img src="/vscimages/offers/taekwondo.jpg" alt="Taekwondo" />
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@ function OffersList() {
                 <div className="offers-grid">
                     <div className="offers-col" data-aos="fade-up">
                         <div className="offers-img">
-                            <img src="/vscimages/offers/jiu-jitsu.webp" alt="Jiu-Jitsu" />
+                            <img src="/vscimages/offers/jiu-jitsu.jpg" alt="Jiu-Jitsu" />
                         </div>
                     </div>
 
@@ -161,7 +161,7 @@ function OffersList() {
                     </div>
                     <div className="offers-col elementB" data-aos="fade-up">
                         <div className="offers-img">
-                            <img src="/vscimages/offers/swimming.webp" alt="Swimming" />
+                            <img src="/vscimages/offers/swimming.jpg" alt="Swimming" />
                         </div>
                     </div>
                 </div>

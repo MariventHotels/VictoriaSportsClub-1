@@ -63,7 +63,7 @@ function Index() {
 
         <div className="hero-wrap" data-aos="fade">
             <div className="hero-img">
-                <img src="/vscimages/inquiry/inquiryb.webp" alt="Tennis Court" />
+                <img src="/vscimages/inquiry/inquiryb.jpg" alt="Tennis Court" />
             </div>
         </div>
         <div className="inquiry-wrap" data-aos="fade-up">

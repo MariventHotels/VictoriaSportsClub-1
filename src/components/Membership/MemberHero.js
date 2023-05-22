@@ -24,15 +24,15 @@ function MemberHero() {
                 >
 
                     <div className='cell'>
-                        <img src="/vscimages/hero/memHeroC.webp" alt="Membership" />
+                        <img src="/vscimages/hero/memHeroC.jpg" alt="Membership" />
                     </div>
 
                     <div className='cell'>
-                        <img src="/vscimages/hero/memHeroB.webp" alt="Membership" />
+                        <img src="/vscimages/hero/memHeroB.jpg" alt="Membership" />
                     </div>
 
                     <div className='cell'>
-                        <img src="/vscimages/hero/memHeroA.webp" alt="Membership" />
+                        <img src="/vscimages/hero/memHeroA.jpg" alt="Membership" />
                     </div>
                 </Carousel>
             </div>

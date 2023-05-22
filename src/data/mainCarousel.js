@@ -1,22 +1,22 @@
 const mainCarouselData = [
     {
-        carouselImg: '/vscimages/carouselmain/carouselA.webp'
+        carouselImg: '/vscimages/carouselmain/carouselA.jpg'
     },
 
     {
-        carouselImg: '/vscimages/carouselmain/carouselB.webp'
+        carouselImg: '/vscimages/carouselmain/carouselB.jpg'
     },
 
     {
-        carouselImg: '/vscimages/carouselmain/carouselC.webp'
+        carouselImg: '/vscimages/carouselmain/carouselC.jpg'
     },
 
     {
-        carouselImg: '/vscimages/carouselmain/carouselD.webp'
+        carouselImg: '/vscimages/carouselmain/carouselD.jpg'
     },
 
     {
-        carouselImg: '/vscimages/carouselmain/carouselF.webp'
+        carouselImg: '/vscimages/carouselmain/carouselF.jpg'
     },
 ];
 
