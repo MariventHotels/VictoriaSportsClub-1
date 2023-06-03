@@ -12,7 +12,7 @@ function AboutCarousel() {
 
         <div className="hero-wrap" data-aos="fade">
             <div className="hero-img">
-                <img src="/vscimages/hero/contact.jpg" alt="Tennis Court" />
+                <img src="/vscimages/hero/contact.jpg" alt="" />
             </div>
         </div>
 

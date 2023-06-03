@@ -10,7 +10,7 @@ function index() {
                 <div className="footer-grid">
                     <div className="main-col left">
                         <div className="ftr-logo-m">
-                            <img src="/vscimages/logo/VICTORIA SPORTS logo(1).png" alt="VS Club Logo Green" />
+                            <img src="/vscimages/logo/VICTORIA SPORTS logo(1).png" alt="" />
                         </div>
 
                         <div className="news-col-sec">

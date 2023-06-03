@@ -1,7 +1,12 @@
 const faciltiesData = [
+    // {
+    //     faciImage: '/vscimages/facilities/Billiards.jpg',
+    //     faciLabel: "BILLIARDS"
+    // },
+
     {
-        faciImage: '/vscimages/facilities/Billiards.jpg',
-        faciLabel: "BILLIARDS"
+        faciImage: '/vscimages/facilities/Gym.jpg',
+        faciLabel: "GYM"
     },
 
     {

@@ -24,15 +24,15 @@ function MemberHero() {
                 >
 
                     <div className='cell'>
-                        <img src="/vscimages/hero/memHeroC.jpg" alt="Membership" />
+                        <img src="/vscimages/hero/memHeroC.jpg" alt="" />
                     </div>
 
                     <div className='cell'>
-                        <img src="/vscimages/hero/memHeroB.jpg" alt="Membership" />
+                        <img src="/vscimages/hero/memHeroB.jpg" alt="" />
                     </div>
 
                     <div className='cell'>
-                        <img src="/vscimages/hero/memHeroA.jpg" alt="Membership" />
+                        <img src="/vscimages/hero/memHeroA.jpg" alt="" />
                     </div>
                 </Carousel>
             </div>

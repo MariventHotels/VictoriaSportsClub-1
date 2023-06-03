@@ -6,7 +6,7 @@ function FacilitiesHero() {
     <>
         <div className="hero-wrap" data-aos="fade">
             <div className="hero-img">
-                <img src="/vscimages/facilities/Facilities.jpg" alt="facilities" />
+                <img src="/vscimages/facilities/Facilities.jpg" alt="" />
 
                 <div className="facility-modal">
                   <h1>Member Benefits</h1>

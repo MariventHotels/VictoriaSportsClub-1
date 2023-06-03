@@ -20,7 +20,7 @@ function MembershipPlan() {
                     {memberData.map((items, index) => (
                         <div className="offers-column"  key={index}>
                             <div className="member-img">
-                                <img src={items.memberImg} alt="Membership Plan" />
+                                <img src={items.memberImg} alt="" />
                                 <div className="member-titleB">
                                     <p>{items.memberTitle}</p>
                                 </div>

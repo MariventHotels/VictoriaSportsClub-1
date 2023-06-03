@@ -19,10 +19,10 @@ const facilitiesMain = [
         faciLabel: "SAUNA"
     },
 
-    {
-        faciImage: '/vscimages/facilities/Billiards.jpg',
-        faciLabel: "BILLIARDS"
-    },
+    // {
+    //     faciImage: '/vscimages/facilities/Billiards.jpg',
+    //     faciLabel: "BILLIARDS"
+    // },
 
     {
         faciImage: '/vscimages/facilities/Table Tennis Court.jpg',
