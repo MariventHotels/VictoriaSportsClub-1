@@ -54,7 +54,7 @@ function Index() {
     <>
         <div className="hero-wrap" data-aos="fade">
             <div className="hero-img">
-                <img src="/vscimages/events/events.jpg" alt="" />
+                <img src="/vscimages/events/Events.jpg" alt="" />
             </div>
         </div>
 

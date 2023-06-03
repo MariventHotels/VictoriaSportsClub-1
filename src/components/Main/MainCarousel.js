@@ -27,7 +27,7 @@ function MainCarousel() {
                     {cData.map((item, index) => (
                         <div key={index}>
                             <div className='cell'>
-                                <img src={item.carouselImg} alt="Carousel" />
+                                <img src={item.carouselImg} alt="" />
                             </div>
                         </div>
                     ))}
