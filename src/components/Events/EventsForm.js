@@ -20,7 +20,7 @@ function EventsForm() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('gmail', 'template_3zgefqi', form.current, 'user_JbMicfL4zdJ2jy5919PB5')
+    emailjs.sendForm('service_mfc4b48', 'template_p78psi5', form.current, 'bzEMFgtQUyUumKM1n')
       .then((result) => {
         e.target.reset();
         alert("success");

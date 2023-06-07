@@ -29,7 +29,8 @@ function HeroVid() {
 
                 <div className='heroDesc'>
                   <p data-aos="fade-up">
-                      Our space offers you access to a multititude of sports facilities and state-of-the-art fitness equipment to cater to your active lifestyle. Whether you want to spend a night bowling 
+                      Our space offers you access to a multititude of sports facilities and state-of-the-art
+                      fitness equipment to cater to your active lifestyle. Whether you want to spend a night bonding
                       with your family, relax in our water spa pools, play a game of tennis
                       or join studio classes, we’ve got you covered.
                   </p>

@@ -2,13 +2,13 @@ const memberData = [
     {
         memberImg: '/vscimages/membership/AnnualPremiere.jpg',
         memberTitle: "ANNUAL PREMIERE",
-        memberDesc: "With flexible payment terms, get all-year-round access to Victoria Sports Club Fitness Gym, Billiards, and Water Activities. Includes Sauna, Jacuzzi, and Steam Room. Basketball, Tennis, and Badminton Courts are included but are subject to court fees. ",
+        memberDesc: "With flexible payment terms, get all-year-round access to Victoria Sports Club Fitness Gym and Water Activities. Includes Sauna, Jacuzzi, and Steam Room. Basketball, Tennis, and Badminton Courts are included but are subject to court fees. ",
     },
 
     {
         memberImg: '/vscimages/membership/02 Semi Annual.jpg',
         memberTitle: "SEMI-ANNUAL PREMIERE",
-        memberDesc: "Enjoy 6-month access to Victoria Sports Club Fitness Gym, Billiards, and Water Activities. Includes Sauna, Jacuzzi, and Steam Room. Basketball, Tennis, and Badminton Courts are included but are subject to court fees.",
+        memberDesc: "Enjoy 6-month access to Victoria Sports Club Fitness Gym and Water Activities. Includes Sauna, Jacuzzi, and Steam Room. Basketball, Tennis, and Badminton Courts are included but are subject to court fees.",
     },
 
     {
