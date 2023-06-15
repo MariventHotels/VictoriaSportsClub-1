@@ -48,7 +48,6 @@
 }
 
 .nav-bar-btn{
-
     button{
         @include heroBtn($white);
         font-size: 45px;
@@ -70,7 +69,7 @@
         font-size: 16px;
         font-family: $Jost;
         position: relative;
-        bottom: 15px;
+        bottom: 5px;
         margin-right: 9px;
 
         @media screen and (max-width: 1000px) {
