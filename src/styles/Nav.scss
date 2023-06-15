@@ -105,15 +105,15 @@
     height: 100vh;
     z-index: 99999;
     transition: 1500ms;
-    padding: 140px 30px 0 30px;
+    padding: 140px 30px 0 0px;
 
     @media screen and (max-width: 1366px){
-        padding: 90px 30px 0 30px;
+        padding: 90px 30px 0 0px;
     }
 
     @media screen and (max-width: 800px) {
         width: 100%;
-        padding: 50px 30px 0 30px;
+        padding: 50px 30px 0 0px;
     }
 }
 
@@ -137,6 +137,7 @@
         font-size: 62px;
         line-height: 70px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bold;
 
         @media screen and (max-width: 800px) {
             font-size: 45px;
@@ -184,7 +185,7 @@
     }
 
     .text-link{
-        color: #125b3b96;
+        color: #125b3bec;
         text-decoration: none;
         padding: 34px 0 18px 0px;
         width: 100%;

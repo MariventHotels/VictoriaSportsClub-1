@@ -75,17 +75,12 @@
 }
 .member-wrap .member-offers .offers-grid .offers-column .member-img .member-titleB {
   background-color: #125B3B;
-  padding: 10px 0;
+  padding: 10px 0 0 0;
   position: absolute;
   bottom: 20px;
   width: 80%;
   margin-left: 40px;
   transform: skewX(-30deg);
-}
-@media screen and (max-width: 1366px) {
-  .member-wrap .member-offers .offers-grid .offers-column .member-img .member-titleB {
-    margin-left: 30px;
-  }
 }
 .member-wrap .member-offers .offers-grid .offers-column .member-img .member-titleB p {
   color: #FFFFFF;
