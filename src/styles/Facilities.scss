@@ -221,9 +221,10 @@
 
 //facility separate page
 .hero-wrap{
-    img{
+    .hero-img img{
         height: 100vh;
         width: 100%;
+        object-fit: cover;
 
         @media screen and (max-width: 1000px) {
             height: 70vh;
