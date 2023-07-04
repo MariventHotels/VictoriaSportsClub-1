@@ -40,7 +40,7 @@ function Nav() {
                 </div>
 
                 <div className='nav-bar-btn'>
-                    <button onClick={showSideBar}><HiOutlineMenuAlt4/></button>
+                    <button onClick={showSideBar}><HiOutlineMenuAlt4 className="menuIcon" /></button>
                 </div>
             </div>
         </div>
