@@ -69,10 +69,10 @@ const facilitiesMain = [
         faciLabel: "MIXED MARTIAL ARTS AREA"
     },
 
-    {
-        faciImage: '/vscimages/facilities/Dart.jpg',
-        faciLabel: "DART"
-    }
+    // {
+    //     faciImage: '/vscimages/facilities/Dart.jpg',
+    //     faciLabel: "DART"
+    // }
 ];
 
 export default facilitiesMain;

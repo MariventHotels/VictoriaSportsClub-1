@@ -1,7 +1,7 @@
 import React, {useRef, useState} from 'react';
-import emailjs from '@emailjs/browser';
 import '../../styles/Inquiry.css';
 import '../../styles/Message.css';
+import emailjs from '@emailjs/browser';
 import {AiOutlineCheckCircle} from 'react-icons/ai';
 
 function Index() {
