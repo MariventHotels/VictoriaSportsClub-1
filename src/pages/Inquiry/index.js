@@ -1,10 +1,10 @@
 import React from 'react'
-import InquiryPage from '../../components/Inquiry/index'
+import Inquiry from '../../components/Inquiry'
 
 function index() {
   return (
     <>
-        <InquiryPage />
+        <Inquiry />
     </>
   )
 }
