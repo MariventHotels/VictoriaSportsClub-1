@@ -35,7 +35,7 @@ function index() {
                             </div>
 
                             <div className="col-grid-right">
-                                <h1>RELATED LINKS TEST VERSION 2</h1>
+                                <h1>RELATED LINKS TEST VERSION 3.0</h1>
                                 <Link to="/facilities" className='ftrLink' ><p>Facilities</p></Link>
                                 <Link to="/offers" className='ftrLink' ><p>Special Offers</p></Link>
                                 <Link to="/membership" className='ftrLink' ><p>Membership</p></Link>
