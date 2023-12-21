@@ -14,7 +14,7 @@ function index() {
         <MainCarousel />
         <MainFacilities />
         <Instagram />
-        {/**   <Ads /> */}
+        <Ads />
     </>
   )
 }

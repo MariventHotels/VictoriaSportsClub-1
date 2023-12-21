@@ -90,7 +90,7 @@ function OffersList() {
             </div>
 
             <div className="offers-list">
-                <div className="offers-grid">
+                {/* <div className="offers-grid">
                     <div className="offers-col" data-aos="fade-up">
                         <div className="offers-img">
                             <img src="/vscimages/offers/ballet.jpg" alt="Ballet" />
@@ -108,9 +108,9 @@ function OffersList() {
                             <button className='package-btn' onClick={showPackage} >View Package</button>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
-                <div className="offers-grid">
+                {/* <div className="offers-grid">
                     <div className="offers-col" data-aos="fade-up">
                         <div className="offers-description">
                             <h1>TAEKWONDO</h1>
@@ -126,7 +126,7 @@ function OffersList() {
                             <img src="/vscimages/offers/taekwondo.jpg" alt="Taekwondo" />
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <div className="offers-grid">
                     <div className="offers-col" data-aos="fade-up">
