@@ -4,15 +4,16 @@ import '../../styles/Insta.css';
 function index() {
 
   <script
-    src="https://cdn2.woxo.tech/a.js#6356070f3f4a5344f112f48f"
+    src="https://cdn2.woxo.tech/a.js#65962b1c435a9a2183aa0dfb"
     async data-usrc>
   </script>
 
   return (
     <>
     <div
-        loading="lazy"
-        data-mc-src="191d2ca1-822c-4398-b280-c27917846afc#instagram"></div> <br /> <br/> <br/>
+      loading="lazy"
+      data-mc-src="6420cbb0-c735-4ec3-b650-bf23d04be963#instagram"></div>
+    <br /> <br/> <br/>
     </>
   )
 }
