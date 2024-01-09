@@ -6,6 +6,10 @@ import '../../styles/Message.css';
 import {AiOutlineCheckCircle} from 'react-icons/ai';
 import emailjs from '@emailjs/browser';
 
+import '../../styles/CarouselExtend.css';
+import {Carousel} from 'react-responsive-carousel';
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+
 function Index() {
 
     //Modal message pop
@@ -52,9 +56,38 @@ function Index() {
 
   return (
     <>
-        <div className="hero-wrap" data-aos="fade">
-            <div className="hero-img">
-                <img src="/vscimages/events/Events.jpg" alt="" />
+        <div className="extend-carousel" data-aos="fade">
+            <div>
+                <Carousel className='carousel'
+                    width dynamicHeight={true}
+                    autoPlay={true}
+                    stopOnHover={false}
+                    showArrows={false}
+                    showThumbs={false}
+                    infiniteLoop={true}
+                    fade={true}
+                    showStatus={false}
+                    transition={1500}
+                    swipeable={false}
+                    animationHandler='fade'
+                >
+
+                    <div className='cell'>
+                        <img src="/vscimages/events/events4.jpg" alt="" />
+                    </div>
+
+                    <div className='cell'>
+                        <img src="/vscimages/events/events.jpg" alt="" />
+                    </div>
+
+                    <div className='cell'>
+                        <img src="/vscimages/events/events3.jpg" alt="" />
+                    </div>
+
+                    <div className='cell'>
+                        <img src="/vscimages/events/events2.jpg" alt="" />
+                    </div>
+                </Carousel>
             </div>
         </div>
 

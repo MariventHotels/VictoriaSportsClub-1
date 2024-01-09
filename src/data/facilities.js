@@ -39,6 +39,11 @@ const facilitiesMain = [
         faciLabel: "TENNIS COURT"
     },
 
+    {
+        faciImage: '/vscimages/facilities/Badminton Court.jpg',
+        faciLabel: "BADMINTON COURT"
+    },
+
     // {
     //     faciImage: '/vscimages/facilities/Wall Climbing and Volleyball Court.webp',
     //     faciLabel: "WALL CLIMBING & VOLLEYBALL COURT"
@@ -72,7 +77,22 @@ const facilitiesMain = [
     // {
     //     faciImage: '/vscimages/facilities/Dart.jpg',
     //     faciLabel: "DART"
-    // }
+    // },
+
+    {
+        faciImage: '/vscimages/facilities/Billiards.jpg',
+        faciLabel: "BILLIARDS"
+    },
+
+    {
+        faciImage: '/vscimages/facilities/Play Gym.jpg',
+        faciLabel: "PLAY GYM"
+    },
+
+    {
+        faciImage: '/vscimages/facilities/Private Gym.jpg',
+        faciLabel: "PRIVATE GYM"
+    },
 ];
 
 export default facilitiesMain;
