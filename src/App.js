@@ -11,10 +11,12 @@ import Inquiry from './pages/Inquiry/index';
 import Events from './pages/Events/index';
 import Navigation from './components/Navigation/Nav';
 import ScrollToTop from './components/ScrollToTop';
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
     <>
+    <Analytics />
       <BrowserRouter forceRefresh={true}>
         <ScrollToTop />
         <Navigation />
