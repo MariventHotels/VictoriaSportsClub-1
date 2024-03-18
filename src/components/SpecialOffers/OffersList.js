@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import '../../styles/Offers.css';
 import {IoMdClose} from 'react-icons/io';
+import OfferedClasses from './OfferedClasses';
 
 function OffersList() {
 
@@ -8,7 +9,6 @@ function OffersList() {
     const [isPackageModalB, setIsPackageModalB] = useState(false);
     const [isPackageModalC, setIsPackageModalC] = useState(false);
     const [isPackageModalD, setIsPackageModalD] = useState(false);
-
 
     // useEffect(() => {
     //     if (isPackageModal) {
@@ -85,8 +85,8 @@ function OffersList() {
 
         <div className="offers-wrap" >
             <div className="offers-title" data-aos="fade-up">
-                <h1>SPECIAL OFFERS</h1>
-                <p>Be updated with the latest promo offerings of the Victoria Sports Club.</p>
+                <h1>OFFERED CLASSES</h1>
+                <p>Elevate your wellness journey to new heights!⁣⁣⁣⁣ Get 30% off our premiere membership at the Victoria Sports Club and elevate your wellness journey. Don't miss this exclusive offer. ⁣⁣⁣⁣</p>
             </div>
 
             <div className="offers-list">
@@ -166,14 +166,12 @@ function OffersList() {
                     </div>
                 </div>
             </div>
-
             <div className="offers-tag">
                 <h1>WANT TO KNOW MORE ABOUT OUR SPECIAL OFFERS ?</h1>
             </div>
             <div className="offers-btn">
                 <a href="/inquiry"><button>INQUIRE NOW</button></a>
             </div>
-
         </div>
     </>
   )

@@ -3,8 +3,8 @@ import '../../styles/Insta.css';
 
 function index() {
 
-  <script 
-    src="https://cdn2.woxo.tech/a.js#65962b1c435a9a2183aa0dfb" 
+  <script
+    src="https://cdn2.woxo.tech/a.js#65962b1c435a9a2183aa0dfb"
     async data-usrc>
   </script>
 

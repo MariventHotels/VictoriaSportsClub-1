@@ -17,6 +17,9 @@ function Ads() {
                         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
+                                    <img src="/vscimages/ads/discount-ad.jpg" class="d-block w-100" alt="" />
+                                </div>
+                                <div class="carousel-item">
                                     <img src="/vscimages/ads/VS Erick Butler-ig.jpg" class="d-block w-100" alt="" />
                                 </div>
                                 <div class="carousel-item">
