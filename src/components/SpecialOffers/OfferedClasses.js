@@ -20,7 +20,7 @@ function OfferedClasses() {
 
                     <div className="offers-col" data-aos="fade-up">
                         <div className="offers-description">
-                            <h1>PRIMIERE MEMBERSHIP</h1>
+                            <h1>PREMIERE MEMBERSHIP</h1>
                             <p>Elevate your wellness journey to new heights!⁣⁣⁣⁣
                                Get 30% off our premiere membership at the Victoria
                                Sports Club and elevate your wellness journey. Don't miss this exclusive offer. ⁣⁣⁣⁣
