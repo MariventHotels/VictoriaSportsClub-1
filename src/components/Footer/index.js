@@ -28,8 +28,8 @@ function index() {
                             <div className="col-grid-right">
                                 <h1>FOR INQUIRIES & BOOKINGS</h1>
                                 <p>+63 927 559 7631 <br /> info@victoriasportsclub.com.ph </p>
-                 
-                                <p>6F, Victoria Sports Tower 2, <br/>
+
+                                <p>7F, Victoria Sports Tower 2, <br/>
                                     799 EDSA South  Triangle Quezon City
                                 </p>
                             </div>
@@ -65,7 +65,7 @@ function index() {
                         <Link to="https://www.instagram.com/thevictoriasportsclub/" target="_blank"><img src="/vscimages/socialmed/Vectorig.png" alt="instagram icon" /></Link>
                     </div>
 
-                    <p>Copyright © 2023 Victoria Sports Club</p>
+                    <p>Copyright © 2024 Victoria Sports Club</p>
                 </div>
             </div>
         </div>
