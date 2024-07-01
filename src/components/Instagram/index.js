@@ -12,7 +12,7 @@ function index() {
     <>
     <div
       loading="lazy"
-      data-mc-src="6420cbb0-c735-4ec3-b650-bf23d04be963#instagram"></div>
+      data-mc-src="951c1dcb-0f5a-4a4b-a1b1-5e92518c9fe6#instagram"></div>
     <br /> <br/> <br/>
     </>
   )

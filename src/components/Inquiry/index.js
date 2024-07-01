@@ -18,7 +18,7 @@ function Index() {
     const sendEmail = (e) => {
       e.preventDefault();
 
-      emailjs.sendForm('service_qpzqcde', 'template_4rr3yyb', form.current, 'bzEMFgtQUyUumKM1n')
+      emailjs.sendForm('service_xwiga34', 'template_s15xwnf', form.current, '0rx8q5OoEx4JOdxmR')
         .then((result) => {
             // console.log(result.text);
             e.target.reset();

@@ -47,7 +47,8 @@ function index() {
                             <div className="col-grid-right">
                                 <h1> <i>more from</i> VS CLUB </h1>
                                 <Link to="https://www.vshotel.com.ph/" target="_blank" className='ftrLink' ><p>VS Hotel</p></Link>
-                                <Link to="https://www.lascasasfilipinas.com/" target="_blank" className='ftrLink' ><p>Las Casas Bataan</p></Link>
+                                <Link to="https://www.vshotel.com.ph/vsbar" target="_blank" className='ftrLink' ><p>Victoria Sports Bar</p></Link>
+                                <Link to="https://www.lascasasfilipinas.com/" target="_blank" className='ftrLink' ><p>Las Casas Filipinas De Acuzar - Bagac Bataan</p></Link>
                                 <Link to="https://lascasasqc.com/" target="_blank" className='ftrLink' ><p>Las Casas Quezon City</p></Link>
                                 <Link to="https://lascasasweddings.com/" target="_blank" className='ftrLink' ><p>Las Casas Weddings</p></Link>
                             </div>
